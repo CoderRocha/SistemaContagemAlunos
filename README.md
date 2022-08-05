@@ -1,2 +1,2 @@
 # SistemaContagemAlunos
-Um sistema de contagem de alunos e Ordem de Chamada
+Um sistema de Contagem de Alunos e Ordem de Chamada
